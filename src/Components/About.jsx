@@ -4,9 +4,9 @@
 
 const About = ()=> {
   return (
-    <div className="mx-auto max-w-7xl px-2 lg:px-0">
+    <div className=" bg-gray-200  lg:px-0">
       <div className="mx-auto max-w-3xl md:text-center">
-        <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl lg:leading-tight">
+        <h2 className=" pt-4 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl lg:leading-tight">
           People who made it successful
         </h2>
         <p className="mx-auto mt-4 max-w-2xl text-gray-600 md:text-xl">
